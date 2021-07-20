@@ -1,15 +1,5 @@
-# `themer`
-
-Your theme's unique URL:
-
-https://themer.dev/?colors.dark.shade0=%231e222a&colors.dark.shade7=%23dedede&colors.dark.accent7=%23c678dd&colors.dark.accent6=%23abb2bf&colors.dark.accent4=%23958a56&colors.dark.accent0=%23e06c75&colors.dark.accent5=%2361afef&colors.dark.accent3=%2398c379&colors.dark.accent2=%23e5c07b&colors.dark.accent1=%23636d83&activeColorSet=dark
-
-If you find `themer` useful, here are some ways to support the project:
-
-* Star [`themer` on GitHub](https://github.com/mjswensen/themer)
-* Follow [@themerdev](https://twitter.com/themerdev) on Twitter
-* [Send a tip through the Brave Browser](https://brave.com/the537), either on [the repository page](https://github.com/mjswensen/themer) or [the Web UI](https://themer.dev)
-* Pay what you want when downloading your theme from [themer.dev](https://themer.dev)
+# Warm Brown Color Scheme
+A warm brown color scheme with some blue and grey bits.
 
 # Installation instructions
 
