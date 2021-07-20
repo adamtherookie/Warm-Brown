@@ -1,6 +1,9 @@
 # Warm Brown Color Scheme
 A warm brown color scheme with some blue and grey bits.
 
+# Screenshots
+![screenshot 1](picture1)
+
 # Installation instructions
 
 ## Alacritty
